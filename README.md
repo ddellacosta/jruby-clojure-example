@@ -28,4 +28,4 @@ And for getting SASS working programatically in the Ruby code:
 
 Copyright © 2012 Dave Della Costa
 
-Distributed under the MIT License
+Distributed under the MIT License (http://dd.mit-license.org/)
